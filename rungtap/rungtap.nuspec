@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>rungtap</id>
+    <version>3.75</version>
+    <owners>EPCC</owners>
+    <title>rungtap</title>
+    <authors>Mark Horridge</authors>
+    <iconUrl>https://www.gtap.agecon.purdue.edu/images/logos/GTAP_Logo_words.png</iconUrl>
+    <projectUrl>https://www.gtap.agecon.purdue.edu/products/rungtap/default.asp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>rungtap gempack data analysis</tags>
+    <summary>GTAP is formulated and solved using GEMPACK, a flexible system for solving AGE models. RunGTAP is a visual interface to various GEMPACK programs. RunGTAP allows the user to run simulations interactively in a Windows environment using the GTAP general equilibrium model.</summary>
+    <description>GTAP is formulated and solved using GEMPACK, a flexible system for solving AGE models. RunGTAP is a visual interface to various GEMPACK programs. RunGTAP allows the user to run simulations interactively in a Windows environment using the GTAP general equilibrium model. No previous knowledge of the GEMPACK language or programming skills is necessary to use the program. Results and complementary information for the analysis are also provided in a Windows environment and can be accessed interactively. RunGTAP will run the standard GTAP Model with any GTAP Data Base which is not too large.</description>
+  </metadata>
+  <files>
+    <file src="./tools/7za.exe"/>
+    <file src="./tools/setup.exe"/>
+    <file src="./tools/setup.chm"/>
+    <file src="./tools/setup.ini"/>
+    <file src="./tools/setup.txt"/>
+    <file src="./tools/rungtap.7z"/>
+    <file src="./tools/chocolateyinstall.ps1"/>
+  </files>
+</package>

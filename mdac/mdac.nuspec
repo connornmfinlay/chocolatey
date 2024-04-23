@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mdac</id>
+    <version>2.8</version>
+    <owners>EPCC</owners>
+    <title>mdac</title>
+    <authors>Microsoft</authors>
+    <iconUrl>https://authy.com/wp-content/uploads/new-microsoft-logo-SIZED-SQUARE-300x297-300x297.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>mdac dependencies</tags>
+    <summary>Microsoft Data Access Components (MDAC) 2.8 Software Development Kit</summary>
+    <description>The MDAC 2.8 SDK is for developers who are building applications using ADO, OLE DB, and ODBC. It contains updated documentation, headers, libs and typelibs for x86, IA64 and AMD64 platforms, as well as updated sample applications and developer tools.</description>
+  </metadata>
+</package>

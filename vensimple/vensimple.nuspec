@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>VensimPLE</id>
+    <!-- <version>9.2.1</version> -->
+    <version>10.1.3</version>
+    <packageSourceUrl>https://vensim.com/download/</packageSourceUrl>
+    <owners>EPCC</owners>
+    <title>VensimPLE</title>
+    <authors>_</authors>
+    <projectUrl>https://vensim.com/vensim-personal-learning-edition/</projectUrl>
+    <iconUrl>https://vensim.com/wp-content/uploads/2023/06/Vensim-KsmVentanasm.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
+    <tags>vensimple simulation models data algorithms</tags>
+    <summary>Vensim is industrial-strength simulation software for improving the performance of real systems. Vensim’s rich feature set emphasizes model quality, connections to data, flexible distribution, and advanced algorithms. Configurations for everyone from students to professionals.</summary>
+    <description>Vensim is industrial-strength simulation software for improving the performance of real systems. Vensim’s rich feature set emphasizes model quality, connections to data, flexible distribution, and advanced algorithms. Configurations for everyone from students to professionals. Vensim is used for developing, analyzing, and packaging dynamic feedback models. We emphasize:
+    High quality, with dimensional consistency and Reality Checks™
+    Connections to data and sophisticated calibration methods
+    Instant output with continuous simulation in SyntheSim
+    Flexible model publication
+    Model analysis, including optimization and Monte Carlo simulation.
+    Vensim contains many industry-leading technical advances in simulation technology. </description>
+  </metadata>
+  <files>
+    <!-- this section controls what actually gets packaged into the Chocolatey package -->
+    <file src="./tools/chocolateyinstall.ps1"/>
+    <file src="./tools/VensimPLEx64Setup1.exe"/>
+  </files>
+</package>

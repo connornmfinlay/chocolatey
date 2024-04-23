@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>rtools</id>
+    <version>43.5958.5975</version>
+    <owners>EPCC</owners>
+    <title>RTools</title>
+    <iconUrl>https://media.licdn.com/dms/image/C5112AQH6UFMhzeiLYA/article-cover_image-shrink_720_1280/0/1568294380589?e=2147483647&amp;v=beta&amp;t=PlI9NN7W4orPAR6jWwmp8hw_xYAxVv6QIZevLI-ZwJQ </iconUrl>
+    <authors>r.project</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>rtools r r-studio</tags>
+    <summary>for R versions from 4.3.0 (R-release and R-devel)</summary>
+    <description>Installed at C:\rtools</description>
+  </metadata>
+</package>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>microdicom</id>
+    <version>2024.1</version>
+    <packageSourceUrl>https://www.microdicom.com/downloads.html</packageSourceUrl>
+    <title>microdicom</title>
+    <authors>Simeon Antonov Stoykov</authors>
+    <projectUrl>https://www.microdicom.com/</projectUrl>
+    <iconUrl>https://www.microdicom.com/images/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>microdicom DICOM MicroDicom imaging</tags>
+    <summary>MicroDicom is a free DICOM viewer and editor for Windows. It can open DICOM images produced by medical equipment. It can also possible to open other image formats - BMP, GIF, JPEG, PNG, TIFF, etc.</summary>
+    <description>MicroDicom is a free DICOM viewer and editor for Windows. It can open DICOM images produced by medical equipment. It can also possible to open other image formats - BMP, GIF, JPEG, PNG, TIFF, etc. It has also been used by the U.S. Department of Veterans' Affairs to get medical data on their state of health </description>
+  </metadata>
+</package>

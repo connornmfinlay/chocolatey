@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>stata</id>
+    <version>18</version>
+    <owners>EPCC</owners>
+    <title>stata</title>
+    <authors>statacorp</authors>
+    <iconUrl>https://www.stata.com/includes/images/stata-logo-release-18-navy.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>stata graphs biomedicine economic epidemiology sociology</tags>
+    <summary>Stata is a general-purpose statistical software package developed by StataCorp for data manipulation, visualization, statistics, and automated reporting</summary>
+    <description>
+    This package requires MDAC to be installed.
+    Stata is a general-purpose statistical software package developed by StataCorp for data manipulation, visualization, statistics, and automated reporting. It is used by researchers in many fields, including biomedicine, economics, epidemiology, and sociology.
+
+      Stata was initially developed by Computing Resource Center in California and the first version was released in 1985. In 1993, the company moved to College Station, TX and was renamed Stata Corporation, now known as StataCorp. A major release in 2003 included a new graphics system and dialog boxes for all commands. Since then, a new version has been released once every two years. The current version is Stata 18, released in April 2023. </description>
+    <!-- <dependencies>
+      <dependency id="mdac.2.8.0" version="(2.8,)" />
+    </dependencies> -->
+  </metadata>
+</package>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>qgis</id>
+    <version>3.32.3-1</version>
+    <owners>EPCC</owners>
+    <title>QGIS-Geo4W</title>
+    <authors>QGIS Development Team</authors>
+    <iconUrl>https://www.qgis.org/en/_static/favicon.ico</iconUrl>
+    <projectSourceUrl>https://github.com/qgis/QGIS</projectSourceUrl>
+    <tags>QGIS Geographical</tags>
+    <summary>Geographical Application</summary>
+    <description>QGIS functions as geographic information system (GIS) software, allowing users to analyze and edit spatial information, in addition to composing and exporting graphical maps</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>

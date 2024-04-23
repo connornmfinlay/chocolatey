@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>r.studio</id>
+    <version>2023.03</version>
+    <title>R.Studio</title>
+    <authors>Posit</authors>
+    <owners>Posit</owners>
+    <licenseUrl>http://www.gnu.org/licenses/agpl-3.0-standalone.html</licenseUrl>
+    <projectUrl>https://posit.co/</projectUrl>
+    <iconUrl>https://scm.cms.hu-berlin.de/sowidv01/chocolatey-packages/-/raw/master/R.Studio/icon/rstudio_icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RStudio is a free and open source integrated development environment (IDE) for R. You can run it on your desktop</description>
+    <summary>RStudio is a free and open source integrated development environment (IDE) for R. You can run it on your desktop</summary>
+    <releaseNotes />
+    <copyright>© 2023 Posit Software, PBC formerly RStudio, PBC</copyright>
+    <tags>r.project r.studio statistics Posit</tags>
+    <packageSourceUrl>https://scm.cms.hu-berlin.de/sowidv01/chocolatey-packages/-/tree/master/R.Studio</packageSourceUrl>
+    <docsUrl>https://docs.posit.co/</docsUrl>
+  </metadata>
+</package>

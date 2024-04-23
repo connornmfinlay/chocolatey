@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>nvidia-winserver-drivers</id>
+    <version>528.89</version>
+    <packageSourceUrl>https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/tesla/528.89/528.89-data-center-tesla-desktop-winserver-2016-2019-2022-dch-international.exe&amp;lang=us&amp;type=Data%20Center%20/%20Tesla</packageSourceUrl>
+    <owners>EPCC</owners>
+    <title>nvidia-winserver-drivers</title>
+    <authors>Nvidia</authors>
+    <projectUrl>https://www.nvidia.com/download/driverResults.aspx/202377/en-us/</projectUrl>
+    <iconUrl>https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-p.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/tesla/528.89/528.89-data-center-tesla-desktop-winserver-2016-2019-2022-dch-international.exe&amp;lang=us&amp;type=Data%20Center%20/%20Tesla</projectSourceUrl>
+    <tags>nvidia-winserver-drivers SPACE_SEPARATED</tags>
+    <summary>Nvidia DataCenter drivers for windows server 2019,2022 compatible with T100 GPUs</summary>
+    <description>This download includes the NVIDIA graphics driver and an option to additionally install the GeForce Experience application. Details for use of the software can be found in the NVIDIA GeForce Software license and GeForce Experience Software license respectively. </description>
+  </metadata>
+</package>

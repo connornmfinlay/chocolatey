@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>jamovi</id>
+    <version>2.2.5.0</version>
+    <owners>EPCC</owners>    
+    <title>jamovi</title>
+    <authors>jamovi</authors>
+    <projectUrl>https://www.jamovi.org/about.html</projectUrl>
+    <iconUrl>https://avatars.githubusercontent.com/u/22629336?s=280&amp;v=4</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://www.jamovi.org/library.html</projectSourceUrl>
+    <tags>jamovi statistical data analysis </tags>
+    <summary>The jamovi project was founded to develop a free and open statistical platform which is intuitive to use, and can provide the latest developments in statistical methodology.</summary>
+    <description>The jamovi project was founded to develop a free and open statistical platform which is intuitive to use, and can provide the latest developments in statistical methodology. At the core of the jamovi philosophy, is that scientific software should be “community driven”, where anyone can develop and publish analyses, and make them available to a wide audience.jamovi aims to be a neutral platform, and takes no position with respect to competing statistical philosophies. The project was not founded to promote a particular statistical ideology, instead wanting to serve as a safe space where different statistical approaches might be published side-by-side, and consider themselves first-rate members of the jamovi community</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

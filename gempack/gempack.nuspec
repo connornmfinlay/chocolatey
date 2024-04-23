@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>gempack</id>
+    <version>12.0.004</version>
+    <owners>EPCC</owners>
+    <title>Gempack</title>
+    <authors>Centre of Policy Studies</authors>
+    <projectUrl>https://www.copsmodels.com/gempack.htm</projectUrl>
+    <iconUrl>https://www.copsmodels.com/images/gplogo4.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>gempack General Equilibrium Modelling PACKage</tags>
+    <summary>GEMPACK (General Equilibrium Modelling PACKage) is a suite of economic modelling software. It is especially suitable for computable general equilibrium (CGE) models, but can handle a wide range of economic behaviour. </summary>
+    <description> 
+Package will install at C:\GP.
+You will be required to authenticate the license key. Enter your email and name, then enter the code that arrives into the installer popup. You will have then activated your gempack license.  
+    </description>
+  </metadata>
+  <files>
+    <file src="./tools/LicMarch23.gem" />
+    <file src="./tools/licen.gem" />
+    <file src="./tools/chocolateyinstall.ps1"/>
+    <file src="./tools/gpei-12.0.004-install-winserv.exe" />
+  </files>
+</package>

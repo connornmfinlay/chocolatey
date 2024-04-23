@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>nvivo</id>
+    <version>20.6.1.1137</version>
+    <owners>EPCC</owners>
+    <title>NVivo</title>
+    <authors>Lumivero (formerly called QSR International)</authors>
+    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
+    <iconUrl>https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/nvivo.jpg?itok=B2hcVJrB</iconUrl>
+    <tags>nvivo qualitative data analysis</tags>
+    <summary>NVivo is a qualitative data analysis (QDA) computer software package produced by Lumivero (formerly called QSR International). NVivo is used across a diverse range of fields, including social sciences such as anthropology, psychology, communication, sociology, as well as fields such as forensics, tourism, criminology and marketing. </summary>
+    <description>https://lumivero.com/products/nvivo/ </description>
+  </metadata>
+</package>

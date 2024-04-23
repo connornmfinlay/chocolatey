@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+    <metadata>
+    <id>lidar-360</id>
+    <version>7.0.20231104</version>
+    <packageSourceUrl>https://greenvalleyintl.com/LiDAR360/</packageSourceUrl>
+    <owners>EPCC</owners>
+    <title>LiDAR360</title>
+    <authors>GreenValley International</authors>
+    <projectUrl>https://greenvalleyintl.com/LiDAR360/</projectUrl>
+    <iconUrl>https://th.bing.com/th/id/OIP.N6fL8f5OSr7gIe_PksU70gHaHa?w=157&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://greenvalleyintl.com/LiDAR360/</projectSourceUrl>
+    <tags>lidar-360 Cloud Post-Processing Imaging Maps Forestry Mining Powerline</tags>
+    <summary>The software can analyze and process massive point cloud data, adapts to multiple platforms and devices, and provides more than 700 functions for efficient support of multi-industry applications. Up to now, the number of downloads has exceeded 100,000 worldwide, and the LiDAR360 is used actively in more than 130 countries and regions, receiving an array of praise from clients, contractors, governments as well as tertiary and research institutions.</summary>
+    <description>Launched in 2013, LiDAR360 is a professional processing platform for massive point cloud data Ldeveloped by GreenValley International. The platform employs over ten different types of international leading point cloud algorithms, artificial intelligence, and machine learning to promote the use of LiDAR across the industry and solve users' application problems while unlocking the full potential of their point cloud data. The software can analyze and process massive point cloud data, adapts to multiple platforms and devices, and provides more than 700 functions for efficient support of multi-industry applications. Up to now, the number of downloads has exceeded 100,000 worldwide, and the LiDAR360 is used actively in more than 130 countries and regions, receiving an array of praise from clients, contractors, governments as well as tertiary and research institutions </description>
+    </metadata>
+</package>
